@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Fragebogen</title>
@@ -438,5 +438,3 @@ Termin nicht einhalte.</label>
 </script>
 
 
-</body>
-</html>
