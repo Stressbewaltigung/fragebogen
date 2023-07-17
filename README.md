@@ -1,3 +1,4 @@
+
 <html>
 <head>
   <title>Fragebogen</title>
@@ -13,6 +14,10 @@
       text-align: center;
 	  margin-bottom: 20px;
     }
+  h2{
+	  text-align: left;
+	  margin-bottom: 20px;
+  }
 
     form {
         width: 100%;
@@ -76,7 +81,7 @@
     }
   </style>
   <h1>Persönliche Stressverstärker</h1>
-
+<h2>Dieser Gedanke kommt in meinem Kopf ____________ vor.</h2>
   <form id="questionnaireForm">
     <div>
       <label for="q1">Frage 1: Am liebsten mache ich alles selber?</label>
@@ -435,5 +440,4 @@ Termin nicht einhalte.</label>
     }
   });
 </script>
-
 
